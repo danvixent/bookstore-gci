@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gorilla/mux"
+	"github.com/gorilla/mux"
 	"net/http"
 )
 

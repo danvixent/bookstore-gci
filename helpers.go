@@ -5,7 +5,6 @@ import (
 	"html/template"
 	"log"
 	"net/http"
-	//"mime"
 )
 
 func renderTempate(w *http.ResponseWriter, tmpl string, tmp *Store) {
